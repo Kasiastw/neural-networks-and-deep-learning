@@ -14,5 +14,6 @@
         * Python Basics with Numpy   [[notebook]](https://github.com/Kasiastw/neural-networks-and-deep-learning/blob/master/notebook/Python%2BBasics%2BWith%2BNumpy.ipynb) 
         * Logistic Regression with a Neural Network mindset  [[notebook]](https://github.com/Kasiastw/neural-networks-and-deep-learning/blob/master/notebook/Logistic%2BRegression%2Bwith%2Ba%2BNeural%2BNetwork%2Bmindset%2Bv5.ipynb)  
         * Planar data classification with one hidden layer   [[notebook]](https://github.com/Kasiastw/neural-networks-and-deep-learning/blob/master/notebook/Planar%2Bdata%2Bclassification%2Bwith%2Bone%2Bhidden%2Blayer%2Bv5.ipynb)   
-        * Building your Deep Neural Network Step by Step 
+        * Building your Deep Neural Network Step by Step [[notebook]](https://github.com/Kasiastw/neural-networks-and-deep-learning/blob/master/notebook/Building%2Byour%2BDeep%2BNeural%2BNetwork%2B-%2BStep%2Bby%2BStep%2Bv8%20(1).ipynb)   
         * Deep Neural Network Application    
+        
